@@ -1,5 +1,5 @@
 {
-    "name": "qubiodev/php-rabbitmq-management-api",
+    "name": "qubiodev/rabbitmq-management-api",
     "type": "library",
     "description": "An Laravel wrapper for the RabbitMQ Management HTTP Api",
     "homepage": "https://github.com/markup/php-rabbitmq-management-api",
